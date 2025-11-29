@@ -77,7 +77,7 @@ This repository will house:
 
 ## 🤝 **Connect With Us**
 
-📩 **Email:** info@konjohomeaccents.com  
+📩 **Email:** francena@konjohomeaccents.africa 
 🌐 **Website:** Coming soon  
 
 <p align="center">
@@ -92,7 +92,7 @@ This repository will house:
 ---
 
 <details>
-<summary><strong>🌞 Light Theme Variant</strong> (Click to Expand)</summary>
+
 
 <br>
 
