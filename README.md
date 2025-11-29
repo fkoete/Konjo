@@ -86,9 +86,8 @@ This repository will house:
 
 ---
 
-# 🌗 **Theme Variants**
 
-Below are optional theme variants for developers or collaborators who prefer different visual modes.
+
 
 ---
 
@@ -102,6 +101,5 @@ Below are optional theme variants for developers or collaborators who prefer dif
   <img src="https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1400&q=80" width="100%">
 </p>
 
-### ☀ Light Mode Styling  
-This version emphasizes soft tones, bright palettes, and a clean visual hierarchy for maximum readability.
+
 
