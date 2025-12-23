@@ -1,5 +1,5 @@
 # Konjo
-Homeware
+
 <!-- LOGO SECTION -->
 <p align="center">
   <img src="https://via.placeholder.com/180x180.png?text=Konjo+Logo" width="180" alt="Konjo Home Accents Logo"/>
@@ -77,7 +77,7 @@ This repository will house:
 
 ## 🤝 **Connect With Us**
 
-📩 **Email:** francena@konjohomeaccents.africa 
+📩 **Email:** enquiries@konjohomeaccents.africa 
 🌐 **Website:** Coming soon  
 
 <p align="center">
